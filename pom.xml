@@ -1,4 +1,5 @@
 <properties>
   <sonar.organization>foradrian</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.projectKey>foradrian_test</sonar.projectKey>
 </properties>
